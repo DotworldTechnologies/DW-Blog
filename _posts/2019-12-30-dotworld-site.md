@@ -40,6 +40,6 @@ Ever heard of opening a website without the internet? Try loading the Dotworld s
 
 A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS, and JavaScript. Yes! You can install the Dotworld Site on your PC or Tablet or Mobile. And it works offline too. It is not the exact use case of PWA, but **why not?**
 
-> It may look like we just over powered a static site. It's just a showcase of what we are capable of. 
+> It may look like we just over powered a static site. It's just a showcase of the new web technologies
 
 ### Stay tuned for the next update on our site.

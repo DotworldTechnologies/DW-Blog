@@ -21,11 +21,12 @@ We are using Cloudflare as the DNS provider. They provide nice analytics on the 
 
 #### React
 
-Yes! You read it right. We used React to developing a static site. We regret it. We are planning to move to next.js on our next major release. Since I started learning React at the time of development, I thought of going with React. But in midway, I realized there are many alternatives for static site development with Server Side Rendering(SSR).
+Yes! You read it right. We used React to develop a static site. We regret it. We are planning to move to next.js on our next major release. Since I started learning React at the time of development, I thought of going with React. But in midway, I realized there are many alternatives for static site development with Server Side Rendering(SSR).
 
 #### Typography
 
 The first huge stride in typographic detail on the web was the introduction of web fonts, which allowed designers and developers to use many other fonts besides the handful generally available on the user’s operating systems. Currently, to create a sentence with different weights we have to download three different font files, one for each typeface. It looks cool on the website but it has a noticeable impact on the performance and overall experience.
+
 To help solve this problem, one of the most impactful changes was made to the OpenType font format in collaboration by Adobe, Apple, Google, Microsoft, and others. The solution was to enable font designers to provide various axes that could be adjusted dynamically by the software rendering the font, such as a web browser.
 You can experience the power of variable fonts on the dotworld product detail page. Learn more about variable fonts [here](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/).
 

@@ -21,7 +21,7 @@ We are using Cloudflare as the DNS provider. They provide nice analytics on the 
 
 #### React
 
-Yes! You read it right. We used React to develop a static site. We regret it. We are planning to move to next.js on our next major release. Since I started learning React at the time of development, I thought of going with React. But in midway, I realized there are many alternatives for static site development with Server Side Rendering(SSR).
+Yes! You read it right. We used React to develop a static site. Since search engines are now supporting both Client Side Rendering(CSR) and Server Side Rendering(SSR), there will be no effect on SEO with React.
 
 #### Typography
 

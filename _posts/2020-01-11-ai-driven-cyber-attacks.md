@@ -31,3 +31,7 @@ Many of these IoT botnets leverage the basic architecture and functionality of t
 
 One of the most popular social media applications came under cyber-attack twice last year. In August, many of the users were logged out of their accounts, account information like name, password and phone number was changed by the hackers. [Ref]( https://www.forbes.com/sites/zakdoffman/2019/09/12/new-instagram-hack-exclusive-facebook-confirms-user-accounts-and-phone-numbers-at-risk/#48c613a52200)
 
+![JavaScript Image](//blog.dotworld.in/assets/images/ai-based-cyber-attacks/cyber.jpg)
+Photo by Pete Pedroza on Unsplash
+
+Also, in November, Instagram was affected by a bug which led to a [data breach](https://www.cpomagazine.com/cyber-security/instagram-breach-exposes-personal-data-of-49-million-users/). Users who updated the platform changes and used the new platform discovered that their passwords were showing in the URL of their web browsers. Affected users were cautioned to change their passwords and delete browser history. But at least 49 million users' data was leaked to the internet because of unprotected AWS servers connected to the internet. The leak was discovered on May 20, 2019. The AWS Server belonged to a Mumbai based marketing company Chtrbox which has been unprotected roughly for 72 hours. This Instagram breach is yet another in a long list of AWS databases connected to the internet without proper security. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "AI driven Cyber attacks"
 author: pooja
-image: assets/images/dotworld-site/dotworld-site.png
+image: assets/images/ai-based-cyber-attacks/cyber.jpg
 description: "Looking into future of cyber attacks"
 featured: true
 hidden: false
@@ -12,10 +12,6 @@ comments: false
 #### Cybercrime Evolves with Advanced Tools
 
 Day-by-day the attacks over cyber is increasing and evolves with the advanced tools. Enterprises everywhere need to watch out! With cybercriminals increasing their ambitions, constantly evolving hacking techniques year over year, and with emerging technologies providing more attack surface for hackers, executives and IT leaders must plan for the inevitable. IT leaders and IT professionals must know how to handle these attacks and how to respond to it.
-
-![JavaScript Image](//blog.dotworld.in/assets/images/ai-based-cyber-attacks/cyber.jpg)
-Photos by Markus Spiske on Unsplash
-
 
 The most recent and advanced tool used in cyber-attack is
 

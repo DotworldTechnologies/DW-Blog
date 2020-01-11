@@ -22,6 +22,15 @@ authors:
     web: https://naveens.co.in
     twitter: https://twitter.com/naveen_robotics
     description: "Ex-Accenture, CTO @ Dotworld Technologies, Studying MTech @ BITS Pilani. JS, React, C#, Java, Python, Android and whatnot."
+  pooja:
+      name: Pooja Shree
+      display_name: Pooja Shree
+      avatar: 'assets/images/avatar.png'
+      gravatar: e56154546cf4be74e393c62d1ae9f9d4
+      email: poojashreer2020@srishakthi.ac.in
+      # web: https://naveens.co.in
+      twitter: https://twitter.com/poojashree231
+      description: "Student at Sri Shakthi college of Engineering"
 
 # Plugins
 plugins:

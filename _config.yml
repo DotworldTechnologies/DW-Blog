@@ -30,7 +30,16 @@ authors:
     email: poojashreer2020@srishakthi.ac.in
     web: https://twitter.com/poojashree231
     twitter: https://twitter.com/poojashree231
-    description: "Student at Sri Shakthi college of Engineering"
+    description: "Associate Security Analyst, Intern at Dotworld Technologies"
+  anandharaj:
+    name: Anandharaj
+    display_name: Anand 
+    avatar: 'assets/images/avatar.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: hackeranandh12469@gmail.com
+    web: https://twitter.com/DotworldIndia
+    twitter: https://twitter.com/DotworldIndia
+    description: "Associate Security Analyst, Intern at Dotworld Technologies"
 
 # Plugins
 plugins:

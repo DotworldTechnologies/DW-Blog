@@ -4,7 +4,7 @@ title:  "AI driven Cyber attacks"
 author: pooja
 image: assets/images/ai-based-cyber-attacks/cyber.jpg
 description: "Looking into future of cyber attacks"
-featured: true
+featured: false
 hidden: false
 comments: false
 ---

@@ -40,6 +40,15 @@ authors:
     web: https://twitter.com/DotworldIndia
     twitter: https://twitter.com/DotworldIndia
     description: "Associate Security Analyst, Intern at Dotworld Technologies"
+  lalith:
+    name: lalith
+    display_name: Lalith Kumar R
+    avatar: 'assets/images/avatar.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: iamlalithramesh@gmail.com
+    web: https://www.instagram.com/lal.jack/
+    twitter: https://twitter.com/iamlalithramesh
+    description: "PCB designer, Intern at Dotworld Technologies"
 
 # Plugins
 plugins:

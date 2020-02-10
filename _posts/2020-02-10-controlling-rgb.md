@@ -184,6 +184,6 @@ When the circuit get completed compile and run the program in a circuit
 | Purple	 | (128,0,128)		 | #800080 |
 | Teal		 | (0,128,128)		 | #008080 |
 | Navy		 | (0,0,128)		 | #000080 |
-{:.table-striped}
+{:.table-striped.mbtablestyle}
 
 These are some of the colour code for controlling RGB led to bring various colour, you can use these values and change the colour code as your convenience. 

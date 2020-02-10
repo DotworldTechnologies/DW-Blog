@@ -2,7 +2,7 @@
 layout: post
 title:  "Controlling RGB strips with Arduino"
 author: lalith
-image: assets/images/controlling-rgb/violet.png
+image: assets/images/controlling-rgb/violet.jpg
 description: "RGB strips can be controlled using own RGB program using arduino"
 featured: true
 hidden: false

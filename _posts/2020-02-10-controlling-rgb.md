@@ -166,7 +166,7 @@ When the circuit get completed compile and run the program in a circuit
 #### Colour codes for controlling RGB LED to various colours
 
 
-|  Colourname |  (R, G, B) |  Hex | 
+|  Colour Name |  (R, G, B) |  Hex | 
 |---|---|---|
 | Black		 | (0,0,0)			 | #000000 |
 | White		 | (255,255,255)	 | #FFFFFF |
@@ -184,6 +184,6 @@ When the circuit get completed compile and run the program in a circuit
 | Purple	 | (128,0,128)		 | #800080 |
 | Teal		 | (0,128,128)		 | #008080 |
 | Navy		 | (0,0,128)		 | #000080 |
-{:.mbtablestyle}
+{:.table-striped}
 
 These are some of the colour code for controlling RGB led to bring various colour, you can use these values and change the colour code as your convenience. 
